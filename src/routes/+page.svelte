@@ -8,7 +8,7 @@
     let insta_logo = '/instagram.png'
     let gobbler_logo = '/vt.png'
     let email_logo = '/gmail.png'
-    let listserv = 'https://www.eepurl.com/hpgakL'
+    let listserv = 'https://gmail.us7.list-manage.com/subscribe?u=3a0a34fe9f1a32722c65f5ed6&id=408de5089a'
 </script>
 
 <div class="grid grid-cols-3 items-center h-full pt-5">
