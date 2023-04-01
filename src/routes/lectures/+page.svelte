@@ -48,7 +48,7 @@
 			Neural Networks
 		</a>
 		</p>
-		<p class="text-2xl font-normal pl-8"><b>Krish Ganotra | </b>December 5th, 2022</p>
+		<p class="text-2xl font-normal pl-8"><b>Krish Ganotra & Vaishnavi Alavala | </b>December 5th, 2022</p>
 	</div>
 	<div class="pb-5">
 		<p class="text-3xl font-extrabold">&gt; <a href="https://colab.research.google.com/drive/1fVWixhL_08YcnV8lxdLADP6egbGaNGp7?usp=sharing">

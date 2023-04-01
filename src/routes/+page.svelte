@@ -1,11 +1,14 @@
 <script>
     let logo = '/logo.png'
     let discord = 'https://discord.gg/WfQ8ECZqDv'
+    let insta = 'https://www.instagram.com/vtaiml/'
     let gobbler = 'https://gobblerconnect.vt.edu/organization/aiml'
     let email = 'vtaimlclub@gmail.com'
     let discord_logo = '/discord.png'
+    let insta_logo = '/instagram.png'
     let gobbler_logo = '/vt.png'
     let email_logo = '/gmail.png'
+    let listserv = 'https://www.eepurl.com/hpgakL'
 </script>
 
 <div class="grid grid-cols-3 items-center h-full pt-5">
@@ -24,13 +27,21 @@
         <br/>
         <h2 class="text-2xl font-normal">
             <h2 class="text-violet-700 font-bold">Discord: </h2>
-            Click <a href={discord} class="underline">this link</a> to get regular announcements!
+            Click <a href={discord} class="underline">this link</a> to get regular announcements/location updates!
         </h2>
+        <br/>
+        <h2 class="text-2xl font-normal">
+            <h2 class="text-violet-700 font-bold">Listserv: </h2>
+            Join our <a href={listserv} class="underline">listserv</a> for regular emails!
+        </h2>
+
+        
     </div>
 </div>
 
 <footer class="flex justify-center pt-20">
     <a href={discord}><img src={discord_logo} alt="Discord link" class="border-4 transition-all duration-500 hover:border-violet-700 rounded object-contain h-20 w-20"></a>
+    <a href={insta}><img src={insta_logo} alt="Instagram link" class="bg-zinc-500 border-4 transition-all duration-500 hover:border-violet-700 rounded object-contain h-20 w-20"></a>
     <a href={gobbler}><img src={gobbler_logo} alt="GobblerConnect link" class="bg-zinc-500 border-4 transition-all duration-500 hover:border-violet-700 rounded object-contain h-20 w-20"></a>
     <a href={"mailto:" + email}><img src={email_logo} alt="Mail link" class="border-4 transition-all duration-500 hover:border-violet-700 rounded object-contain h-20 w-20"></a>
 </footer>
