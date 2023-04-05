@@ -2,6 +2,12 @@
 	<h1 class="text-6xl text-violet-700 font-extrabold pb-5">lectures/workshops</h1>
 	<h2 class="text-5xl text-violet-700 font-extrabold pb-5">2022-23</h2>
 	<div class="pb-5">
+		<p class="text-3xl font-extrabold">&gt; <a href="https://docs.google.com/presentation/d/1Yut4HhQjivr2P7vDvryDxMr4I0J1glTQJeQgao-bEn4/edit?usp=sharing">
+			Reinforcement Learning
+		</a></p>
+		<p class="text-2xl font-normal pl-8"><b>Vikram Bala | </b>April 4th, 2023</p>
+	</div>
+	<div class="pb-5">
 		<p class="text-3xl font-extrabold">&gt; <a href="https://docs.google.com/presentation/d/1xuy2qi6290-eqS0QMwLdheKKhwjLq5KAdoZyQgjNdfw/edit?usp=sharing">
 			Graph Neural Networks (GNNs)
 		</a></p>
