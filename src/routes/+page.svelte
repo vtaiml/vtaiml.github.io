@@ -23,7 +23,7 @@
             We get together every week to discuss ML architectures and recent innovations.
         </h2>
         <br/>
-        <h2 class="text-2xl font-normal"><h2 class="text-violet-700 font-bold">Meeting Time: </h2>Tuesday 5PM @ Randolph 216</h2>
+        <h2 class="text-2xl font-normal"><h2 class="text-violet-700 font-bold">Meeting Time: </h2>TBD</h2>
         <br/>
         <h2 class="text-2xl font-normal">
             <h2 class="text-violet-700 font-bold">Discord: </h2>
